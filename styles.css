@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.5rem;
+    border-radius: 1%;
+}
+
+#img-div{
+   background-color: lightgrey;
+   width: 98%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+}
+
+#image {
+    padding : 1rem;
+    width: 60%;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+p{
+    font-size: 1rem;
+    margin: 
+    0.5rem;
+}
+
+h3{
+    text-align: center;
+}
+
+#tribute-info{
+    width: 50%;
+    text-align: left;
+    font-size: 1rem;
+}
+
+#tribute-info li{
+    padding: 1rem;
+}
+
+#tribute-info h3{
+    text-align: left;
+}
+
+
+
+
+
+
+
